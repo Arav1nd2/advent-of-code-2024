@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode2024",
+  "description": "Javascript solutions for Advent of Code 2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "generate": "node utils/autogen.js"
+  }
+}
